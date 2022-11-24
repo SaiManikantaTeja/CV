@@ -1,0 +1,23 @@
+h1, h3{
+  color: rgb(226, 141, 57);  
+}
+
+html{
+  margin: 32px;
+  background-color: seashell;
+  
+}
+
+hr {
+  width: 10%;
+  color: gre  y;
+  border-width: 6px;
+  border-style: dotted none none;
+  height: 15px; 
+}
+
+img{
+  width: 175px;
+}
+
+

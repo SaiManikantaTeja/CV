@@ -2,8 +2,8 @@ h1{
   
 }
 
-body{
-  padding: 32px;
+html{
+  margin: 32px;
   
 }
 
@@ -20,5 +20,5 @@ th{
 }
 
 img{
-  width: 250px;
+  width: 175px;
 }
